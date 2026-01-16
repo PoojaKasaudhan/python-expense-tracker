@@ -1,0 +1,2 @@
+564,food,biryani
+100,cloths,kurti
